@@ -1,0 +1,5 @@
+name: name_pac
+description: Boot assets for the name_pac configuration inside the pac_zcu104_helloworld container
+revision: 1.0
+assets:
+    zcu104: zcu104
